@@ -25,7 +25,7 @@ Next, migrate your code, switch your CUDA-Q target to the NVIDIA GPU backend, an
 Optional:  Rewrite your code for the quantum algorithm to exploit additional opportunities for parallelization.  Experiment with different GPUs or multiple GPUs.
 
 * **Requirement:** Scale up. Run your simulation for larger N.  
-* **Metrics:** Conmpute your success metrics as defined in your PRD and compare them to the CPU run (e.g., the time-to-solution and approximation ratio)
+* **Metrics:** Compute your success metrics as defined in your PRD and compare them to the CPU run (e.g., the time-to-solution and approximation ratio)
 
 #### Step C: GPU Acceleration of the classical algorithm
 
